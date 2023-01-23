@@ -1,3 +1,4 @@
 "strict mode";
 let abc = "123";
-let local_abc = "local abc";
+let local_abcx = "local abcx";
+let local_abcd = "local abcd";
